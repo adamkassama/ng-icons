@@ -53,6 +53,8 @@ MIT
 @ng-icons/radix-icons
 MIT
 
+@ng-icons/tabler-icons
+
 rxjs
 Apache-2.0
                                Apache License
